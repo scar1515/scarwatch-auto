@@ -2,11 +2,11 @@
   "P001|facebook": {
     "erreur": "Erreur Meta (400) : Missing or invalid image file",
     "statut": "echec",
-    "tentatives": 1
+    "tentatives": 2
   },
   "P001|instagram": {
     "erreur": "Erreur Meta (400) : Only photo or video can be accepted as media type.",
     "statut": "echec",
-    "tentatives": 1
+    "tentatives": 2
   }
 }
